@@ -1,3 +1,9 @@
 [submodule "AdeLLM-trained"]
 	path = AdeLLM-trained
 	url = git@github.com:AnotherMedo/AdeLLM-trained.git
+[submodule "AdeLLM-tuned"]
+	path = AdeLLM-tuned
+	url = git@github.com:AnotherMedo/AdeLLM-tuned.git
+[submodule "AdeLLM-web"]
+	path = AdeLLM-web
+	url = git@github.com:AnotherMedo/AdeLLM-web.git
