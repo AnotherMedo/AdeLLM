@@ -1,0 +1,3 @@
+[submodule "AdeLLM-trained"]
+	path = AdeLLM-trained
+	url = git@github.com:AnotherMedo/AdeLLM-trained.git
